@@ -1,0 +1,208 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+	<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+		<infNFe Id="NFe26200409456974000159550400000081951001702954" versao="4.00">
+			<ide>
+				<cUF>26</cUF>
+				<cNF>00170295</cNF>
+				<natOp>NF-E VENDA A CONSUMIDOR</natOp>
+				<mod>55</mod>
+				<serie>40</serie>
+				<nNF>8195</nNF>
+				<dhEmi>2020-04-01T06:02:44-03:00</dhEmi>
+				<dhSaiEnt>2020-04-01T06:02:44-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>2</idDest>
+				<cMunFG>2607901</cMunFG>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>4</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>0</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>REDESOFT b2click-PDV</verProc>
+			</ide>
+			<emit>
+				<CPF>09456974000159</CPF>
+				<xNome>POSTO SUL LTDA</xNome>
+				<xFant>SUL 1</xFant>
+				<enderEmit>
+					<xLgr>RODOVIA BR 101 SUL, S/N</xLgr>
+					<nro>0</nro>
+					<xBairro>PRAZERES</xBairro>
+					<cMun>2607901</cMun>
+					<xMun>JABOATAO DOS GUARARAPES</xMun>
+					<UF>PE</UF>
+					<CEP>54345160</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>8134765012</fone>
+				</enderEmit>
+				<IE>036449792</IE>
+				<CRT>3</CRT>
+			</emit>
+			<dest>
+				<CNPJ>13223774000123</CNPJ>
+				<xNome>TRANSDELLAS LTDA</xNome>
+				<enderDest>
+					<xLgr>RUA ESCUMILHA</xLgr>
+					<nro>100</nro>
+					<xBairro>ARVOREDO</xBairro>
+					<cMun>3118601</cMun>
+					<xMun>CONTAGEM</xMun>
+					<UF>MG</UF>
+					<CEP>32113260</CEP>
+					<cPais>1058</cPais>
+					<xPais>Brasil</xPais>
+					<fone>31992559963</fone>
+				</enderDest>
+				<indIEDest>1</indIEDest>
+				<IE>0017305060020</IE>
+				<email>abastecimento@transmoycana.com.br</email>
+			</dest>
+			<autXML>
+				<CPF>03053443406</CPF>
+			</autXML>
+			<det nItem="1">
+				<prod>
+					<cProd>10004</cProd>
+					<cEAN>SEM GTIN</cEAN>
+					<xProd>OLEO DIESEL B S10</xProd>
+					<NCM>27101921</NCM>
+					<CEST>0600600</CEST>
+					<CFOP>6667</CFOP>
+					<uCom>LT</uCom>
+					<qCom>304.1300</qCom>
+					<vUnCom>3.189</vUnCom>
+					<vProd>969.87</vProd>
+					<cEANTrib>SEM GTIN</cEANTrib>
+					<uTrib>LT</uTrib>
+					<qTrib>304.1300</qTrib>
+					<vUnTrib>3.189</vUnTrib>
+					<indTot>1</indTot>
+					<comb>
+						<cProdANP>820101034</cProdANP>
+						<descANP>DIESEL B3 S10 COMUM</descANP>
+						<UFCons>PE</UFCons>
+					</comb>
+				</prod>
+				<imposto>
+					<vTotTrib>252.65</vTotTrib>
+					<ICMS>
+						<ICMSST>
+							<orig>0</orig>
+							<CST>60</CST>
+							<vBCSTRet>0.00</vBCSTRet>
+							<pST>0.0000</pST>
+							<vICMSSubstituto>0.00</vICMSSubstituto>
+							<vICMSSTRet>0.00</vICMSSTRet>
+							<vBCSTDest>0.00</vBCSTDest>
+							<vICMSSTDest>0.00</vICMSSTDest>
+						</ICMSST>
+					</ICMS>
+					<PIS>
+						<PISNT>
+							<CST>04</CST>
+						</PISNT>
+					</PIS>
+					<COFINS>
+						<COFINSNT>
+							<CST>04</CST>
+						</COFINSNT>
+					</COFINS>
+				</imposto>
+				<infAdProd>Item: 01 Bico: 26 Bomba: 005 Tanque: 08 Encerrante Inicial: 4152345,270 Encerrante Final: 4152649,400 ICMS recolhido anteriormente por substituicao tributaria nos termos do convenio de ICMS 110/07: B. Retencao ICMS: 969,87 V. Retencao ICMS: 174,58</infAdProd>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vFCP>0.00</vFCP>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vFCPST>0.00</vFCPST>
+					<vFCPSTRet>0.00</vFCPSTRet>
+					<vProd>969.87</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vIPIDevol>0.00</vIPIDevol>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>969.87</vNF>
+					<vTotTrib>252.65</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>9</modFrete>
+				<transporta>
+					<CNPJ>09456974000159</CNPJ>
+					<xNome>POSTO SUL LTDA</xNome>
+					<IE>036449792</IE>
+					<xMun>JABOATAO DOS GUARARAPES</xMun>
+					<UF>PE</UF>
+				</transporta>
+				<vol>
+					<qVol>304</qVol>
+					<esp>PRODUTO</esp>
+					<marca>DIVERSOS</marca>
+					<pesoL>0.000</pesoL>
+					<pesoB>0.000</pesoB>
+				</vol>
+			</transp>
+			<pag>
+				<detPag>
+					<indPag>0</indPag>
+					<tPag>05</tPag>
+					<vPag>969.87</vPag>
+				</detPag>
+			</pag>
+			<infAdic>
+				<infCpl>Emp:02 Ban:40 CAT:1239 Venda:170295 Op:632 - OBRIGADO PELA PREFERENCIA. VOLTE SEMPRE! - Placa: PZR-9559 Km: 336528 Veiculo: AUTO Km Anterior: 0 Km/l: 1106,53 -  - ICMS recolhido anteriormente por substituicao tributaria nos termos do convenio de ICMS 110/07: B. Retencao ICMS: 969,87 V. Retencao ICMS: 174,58</infCpl>
+			</infAdic>
+			<infRespTec>
+				<CNPJ>05017821000154</CNPJ>
+				<xContato>Walson Franca</xContato>
+				<email>walsonfranca@redesoft.com.br</email>
+				<fone>8340629098</fone>
+			</infRespTec>
+		</infNFe>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+				<Reference URI="#NFe26200409456974000159550400000081951001702954">
+					<Transforms>
+						<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+						<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+					</Transforms>
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+					<DigestValue>nl+uKH3J/+J0FKqUSvd+WwL4X6Y=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>I20lac+W/T6CH0NJeyarKhyFs34+VpP2bNh1yuyONxk6q2OgTk/0lp6qWw4LkFTCfAWNPCo1hWugvZrd9jPWMRMIwcThfXeYovDX0DJvBtNhdJgy0o69vpzENCKmKEdMjYHOZ7i10HdQ1q016bNvczCHEoBXA5pLV4UXBK1sOZ7K+7hVGqHveMyNHzwiKbaQd+KDowDEU/NmEkwPjDNHwU8UQbvuNg83bDx0tUU8ZnyEUzr1hiZKlXmUFr6YJpMeXBEjXKXBkIzTIG8feS8KB1rSQlyeFVMmbvV42GzLnPFZF5ErYLPChLHsItVm45T+v0HxLP22KeXr4tXPWkoG4Q==</SignatureValue>
+			<KeyInfo>
+				<X509Data>
+					<X509Certificate>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</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+	</NFe>
+	<protNFe versao="4.00">
+		<infProt Id="NFe126200025287420">
+			<tpAmb>1</tpAmb>
+			<verAplic>NFEPE_P_25.00.10.213</verAplic>
+			<chNFe>26200409456974000159550400000081951001702954</chNFe>
+			<dhRecbto>2020-04-01T06:02:46-03:00</dhRecbto>
+			<nProt>126200025287420</nProt>
+			<digVal>nl+uKH3J/+J0FKqUSvd+WwL4X6Y=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>
